@@ -1,0 +1,2 @@
+Set-AudioDevice -ID "{0.0.1.00000000}.{7fd9a177-3153-417f-96e1-ad6284758503}";
+& 'C:\Program Files\VideoLAN\VLC\vlc.exe' --qt-start-minimized --play-and-exit --qt-notification=0 "C:\scripts\switched_to_Interface.mp3"

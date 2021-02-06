@@ -1,0 +1,2 @@
+Set-AudioDevice -ID "{0.0.1.00000000}.{cbabf1f9-d48b-42a9-ae29-1862cd1e9061}";
+& 'C:\Program Files\VideoLAN\VLC\vlc.exe' --qt-start-minimized --play-and-exit --qt-notification=0 "C:\scripts\switched_to_headset.mp3"
